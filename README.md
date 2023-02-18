@@ -48,3 +48,6 @@ npm test
 npm run coverage
 npm run test:watch
 ```
+
+## License
+[MIT](https://github.com/Ibrar-Akhtar/rand-str/blob/main/LICENSE)
