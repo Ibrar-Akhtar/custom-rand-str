@@ -33,7 +33,7 @@ randomSring({ exludeChars: "abcdeEf12345" });
 
 ## Options
 | Option  | Type  | Possible values  | Default value |
-| :----- |:----:|:----:|:-------------| :---------: |
+| :----- |:----:|:-------------| :---------: |
 | noOfDigits    | Number | any positive integer | 12 |
 | noOfAlphabets | Number | any positive integer | 12 |
 | noOfSpecialCharacters | Number | any positive integer | 0 |

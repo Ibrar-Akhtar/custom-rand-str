@@ -1,6 +1,6 @@
 {
   "name": "custom-rand-str",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get a customizable random string",
   "main": "index.js",
   "scripts": {
@@ -13,8 +13,8 @@
     "prettier:fix": "prettier --write **/*.js",
     "prepare": "husky install"
   },
-  "lint-staged":{
-    "**/*.{js,jsx,ts,tsx}":[
+  "lint-staged": {
+    "**/*.{js,jsx,ts,tsx}": [
       "npx prettier --write",
       "npx eslint --fix"
     ]
