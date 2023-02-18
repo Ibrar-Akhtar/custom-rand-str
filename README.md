@@ -1,15 +1,15 @@
-# rand-str
+# custom-rand-str
 A Library to help you create a customized random string by using different options.
 
 ## Installation
 Use the package manager npm to install customized random string.
 ```bash
-npm install rand-str
+npm install custom-rand-str
 ```
 
 ## Usage
 ```javascript
-const randomSring = require('./src/lib/randomString');
+const randomSring = require('custom-rand-str');
 
 randomSring();  // no special characters by default
 // 6G0YgT7l427fc4792y7nFS6T
