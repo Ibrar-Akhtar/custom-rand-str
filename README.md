@@ -32,14 +32,14 @@ randomSring({ exludeChars: "abcdeEf12345" });
 ```
 
 ## Options
-| Option  | Type | Required  | Possible values  | Default value |
+| Option  | Type  | Possible values  | Default value |
 | :----- |:----:|:----:|:-------------| :---------: |
-| noOfDigits    | Number | false | any positive integer | 12 |
-| noOfAlphabets | Number | false | any positive integer | 12 |
-| noOfSpecialCharacters | Number | false | any positive integer | 0 |
-| alphabetsType | String | false | • `mixed`<br> •  `small`<br> • `capital` | `mixed` | 
-| order | String | false | • `num-specialchars-alphabets`<br> • `num-alphabets-specialchars`<br> • `specialchars-alphabets-num`<br> • `specialchars-num-alphabets`<br> • `alphabets-num-specialchars`<br> • `alphabets-num-specialchars`<br> • `mixed` | `mixed` |
-| exludeChars | String | false | single or multiple characters | undefined | 
+| noOfDigits    | Number | any positive integer | 12 |
+| noOfAlphabets | Number | any positive integer | 12 |
+| noOfSpecialCharacters | Number | any positive integer | 0 |
+| alphabetsType | String | • `mixed`<br> •  `small`<br> • `capital` | `mixed` | 
+| order | String | • `num-specialchars-alphabets`<br> • `num-alphabets-specialchars`<br> • `specialchars-alphabets-num`<br> • `specialchars-num-alphabets`<br> • `alphabets-num-specialchars`<br> • `alphabets-num-specialchars`<br> • `mixed` | `mixed` |
+| exludeChars | String | single or multiple characters | undefined | 
 
 ## Tests
 Use the following commands to test the library
