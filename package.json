@@ -1,7 +1,8 @@
 {
   "name": "custom-rand-str",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Get a customizable random string",
+  "repository": "https://github.com/Ibrar-Akhtar/custom-rand-str.git",
   "keywords": [
     "randomstring",
     "random text",
